@@ -74,7 +74,12 @@ Boundary pixels are reassigned to foreground before training, converting the tas
 ---
 
 ## Models
-### Consider downloading the models from kaggle link here: 
+## 📦 Pretrained Models
+
+The pretrained models for this project are available on Kaggle.  
+You can download them from the link below:
+
+🔗 https://www.kaggle.com/datasets/uchhas007/oxford-pet-segmentation-trained-models
 ### Base U-Net
 
 An encoder–decoder architecture with skip connections, adapted for RGB input at 128×128 resolution with a binary segmentation output and an attached classifier head.
